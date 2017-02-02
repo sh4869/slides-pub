@@ -4,12 +4,13 @@
         "name": "プログラマ初心者向けのTips",
         "description": "サークルで発表したものです。",
         "date": "2016-06-20",
-        "format":"web(reveal.js)"
+        "format": "web(reveal.js)"
     },
     {
         "folder": "self-introduction",
         "name": "自己紹介スライド",
         "date": "2016-05-07",
-        "description": "大学のサークルサークルにて行われた自己紹介プレゼン大会にて発表したものです。"
+        "description": "大学のサークルサークルにて行われた自己紹介プレゼン大会にて発表したものです。",
+        "format": "web"
     }
 ]
