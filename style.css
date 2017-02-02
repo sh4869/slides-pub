@@ -1,0 +1,35 @@
+.main {
+  margin-top: 1em;
+}
+
+.slide-container {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px black solid;
+}
+
+.slide-container h2 {
+  display: inline;
+}
+
+.slide-container .info {
+  text-indent: 1em;
+}
+
+.slide-container .info p {
+  color: black;
+  margin: 0;
+}
+.footer {
+  margin: 1em;
+}
+
+.footer .link a{
+  margin-right: 1em;
+}
+
+.footer p.copywrite {
+  text-align: center;
+}
