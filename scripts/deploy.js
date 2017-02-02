@@ -12,7 +12,7 @@ ghpages.publish(
             email: "nobuk4869@gmail.com",
         },
         message: "[ci skip] UPDATEE WEBPAGE",
-        branch: "master"
+        branch: "gh-pages"
     },
     function (err) {
         if(err){
