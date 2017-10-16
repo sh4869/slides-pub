@@ -24,11 +24,11 @@ html
         each slide in slides
           .slide-container(uk-grid)
             .container
+              h4= slide.date
               a(href=slide.folder)
                 h2= slide.name
               p= slide.description
               .info
-                p="date : "+slide.date
                 p="format : "+slide.format
         .footer
           .link
