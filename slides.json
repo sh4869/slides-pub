@@ -1,5 +1,12 @@
 [
     {
+        "folder": "play-with-webassembly",
+        "name": "Play with Webassembly",
+        "date": "2018-03-17",
+        "description": "Mice技術交流会にて発表した、初心者向けのWebAssemblyの紹介です。",
+        "format": "pdf"
+    },
+    {
         "folder": "keyword-of-modern-development",
         "name": "モダン開発をかじってみる",
         "date": "2017-08-25",
