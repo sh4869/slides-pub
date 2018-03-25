@@ -1,5 +1,12 @@
 [
     {
+        "folder": "tofu-conf-2",
+        "name": "「暗黙的コミュニティ」の話",
+        "date": "2018-03-25",
+        "description": "<a href='https://tofuconf.club/2018-02-24/2nd-tofuconf-general.html'>tofuConf2</a>にて発表したものです。",
+        "format": "web"
+    },
+    {
         "folder": "play-with-webassembly",
         "name": "Play with Webassembly",
         "date": "2018-03-17",
