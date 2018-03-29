@@ -1,5 +1,12 @@
 [
     {
+        "folder": "dart-meet-up-4",
+        "name": "Dartのソースコード生成について",
+        "date": "2018-03-29",
+        "description": "<a href='https://dartisans-jp.connpass.com/event/80717/'>Dart Meetup Tokyo #4</a>にて発表したものです。",
+        "format": "web"
+    },
+    {
         "folder": "tofu-conf-2",
         "name": "「暗黙的コミュニティ」の話",
         "date": "2018-03-25",
