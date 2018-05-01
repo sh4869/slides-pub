@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sh4869/slides#readme",
   "devDependencies": {
-    "fs-extra": "^5.0.0",
+    "fs-extra": "^6.0.0",
     "gh-pages": "^1.0.0",
     "path": "^0.12.7",
     "pug": "^2.0.0-beta10"
