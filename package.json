@@ -20,7 +20,7 @@
   "homepage": "https://github.com/sh4869/slides#readme",
   "devDependencies": {
     "fs-extra": "^7.0.0",
-    "gh-pages": "^2.0.0",
+    "gh-pages": "^2.0.1",
     "path": "^0.12.7",
     "pug": "^2.0.0-beta10"
   },
