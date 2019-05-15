@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const pug = require("pug");
 
 const copySlides = () => {
-    fs.copySync(__dirname + "/../slides/", __dirname + "/../dest/");
+    fs.copySync(__dirname + "/../slides/", __dirname + "/../dest/slides/");
 }
 
 const generateIndexPage = () => {

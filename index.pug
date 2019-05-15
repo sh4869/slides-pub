@@ -25,15 +25,14 @@ html
           .slide-container(uk-grid)
             .container
               h4= slide.date
-              a(href=slide.folder)
+              a(href="slides/" + slide.folder)
                 h2= slide.name
               .info
                 p!= slide.description
-                p="format : "+slide.format
         .footer
           .link
             a(href="http://sh4869.net") sh4869.net
             a(href="https://github.com/sh4869") GitHub
             a(href="https://twitter.com/sh4869sh") Twitter
-          p.copywrite &copy; 2017 sh4869
+          p.copywrite &copy; 2017-2019 sh4869
         

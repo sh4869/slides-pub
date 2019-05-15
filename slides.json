@@ -3,42 +3,35 @@
         "folder": "dart-meet-up-4",
         "name": "Dartのソースコード生成について",
         "date": "2018-03-29",
-        "description": "<a href='https://dartisans-jp.connpass.com/event/80717/'>Dart Meetup Tokyo #4</a>にて発表したものです。",
-        "format": "web"
+        "description": "<a href='https://dartisans-jp.connpass.com/event/80717/'>Dart Meetup Tokyo #4</a>にて発表したものです。"
     },
     {
         "folder": "tofu-conf-2",
         "name": "「暗黙的コミュニティ」の話",
         "date": "2018-03-25",
-        "description": "<a href='https://tofuconf.club/2018-02-24/2nd-tofuconf-general.html'>tofuConf2</a>にて発表したものです。",
-        "format": "web"
+        "description": "<a href='https://tofuconf.club/2018-02-24/2nd-tofuconf-general.html'>tofuConf2</a>にて発表したものです。"
     },
     {
         "folder": "play-with-webassembly",
         "name": "Play with Webassembly",
         "date": "2018-03-17",
-        "description": "Mice技術交流会にて発表した、初心者向けのWebAssemblyの紹介です。",
-        "format": "pdf"
+        "description": "Mice技術交流会にて発表した、初心者向けのWebAssemblyの紹介です。"
     },
     {
         "folder": "keyword-of-modern-development",
         "name": "モダン開発をかじってみる",
-        "date": "2017-08-25",
-        "description": "最近の開発のトレンド等についての話．大学の合宿にて発表しました",
-        "format": "pdf"
+        "date": "2017-08-25"
     },
     {
         "folder": "programming-beginner-tips",
         "name": "プログラマ初心者向けのTips",
         "description": "サークルで発表したものです。",
-        "date": "2016-06-20",
-        "format": "web(reveal.js)"
+        "date": "2016-06-20"
     },
     {
         "folder": "self-introduction",
         "name": "自己紹介スライド",
         "date": "2016-05-07",
-        "description": "大学のサークルにて行われた自己紹介プレゼン大会にて発表したものです。",
-        "format": "web"
+        "description": "大学のサークルにて行われた自己紹介プレゼン大会にて発表したものです。"
     }
 ]
