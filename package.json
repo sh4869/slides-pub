@@ -22,7 +22,7 @@
     "fs-extra": "^8.0.0",
     "gh-pages": "^2.0.0",
     "path": "^0.12.7",
-    "pug": "^2.0.0-beta10"
+    "pug": "^2.0.4"
   },
   "dependencies": {
     "showdown": "^1.6.4"
