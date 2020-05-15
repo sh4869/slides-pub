@@ -1,28 +1,20 @@
-.main {
-  margin-top: 1em;
+
+ul.info {
+  margin-left: 1em;
 }
 
 .slide-container {
-  padding-left: 10%;
-  padding-right: 10%;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  border-bottom: 1px black solid;
+  
 }
 
-.slide-container h2 {
-  display: inline;
+.slide-container h5 {
+  margin-bottom: 1px;
 }
 
-.slide-container .info {
-  text-indent: 1em;
-  margin-top: 1em;
+.slide-container p.info {
+  margin-left: 1em;
 }
 
-.slide-container .info p {
-  color: black;
-  margin: 0;
-}
 .footer {
   margin: 1em;
 }
